@@ -21,11 +21,13 @@ from datetime import datetime as dtinthehouse
 
 import hashlib
 
-Q:why am I using this?
+
+#Q:why am I using this?
 
 great question. Think of it as a redundant potplayer playlist app where updating it is a tiny bit easier. Why? well someone's gotta take care of all the linux distros;)
 
-how does it work:
+
+#how does it work:
 
 this is the main app page:
 
