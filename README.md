@@ -48,7 +48,7 @@ once scanned, you'll see something like this in the main app page.
 
 just double-click on an entry to open potplayer with that file in play; a playlist with all the queried items will be created. toggle "random" to randomize the playlist.
 
-you can type something to search the db in the field left to the "query" button:
+you can type something in the field left to the "query" button to search the db:
 
 ![Chungus](https://github.com/syw784/hugh_chungus/raw/main/chuguus/chungus5.PNG)
 
